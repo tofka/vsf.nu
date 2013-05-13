@@ -83,6 +83,9 @@
                 <a href="foto2011.php" title="Foton">Foton </a>
                 <ul>
                     <li>
+                        <a href="foto2012.php">2012</a>
+                    </li>
+                    <li>
                         <a href="foto2011.php">2011</a>
                     </li>
                     <li>
