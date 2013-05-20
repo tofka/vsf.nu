@@ -18,7 +18,18 @@
                 <a href="images/2012/vara12.jpg" rel="lightbox[vara]" title=""></a>
                 <a href="images/2012/vara13.jpg" rel="lightbox[vara]" title=""></a>
                 <a href="images/2012/vara14.jpg" rel="lightbox[vara]" title=""></a>
-                <a href="images/2012/vara15.jpg" rel="lightbox[vara]" title=""></a>               
+                <a href="images/2012/vara15.jpg" rel="lightbox[vara]" title=""></a>     
+
+                <a href="images/2012/arsmot1.jpg" rel="lightbox[arsmot]" title=""><h4>Årsmöte i Floda</h4></a>
+                <a href="images/2012/arsmot2.jpg" rel="lightbox[arsmot]" title=""></a>        
+                <a href="images/2012/arsmot3.jpg" rel="lightbox[arsmot]" title=""></a>
+                <a href="images/2012/arsmot4.jpg" rel="lightbox[arsmot]" title=""></a>
+                <a href="images/2012/arsmot5.jpg" rel="lightbox[arsmot]" title=""></a>
+                <a href="images/2012/arsmot6.jpg" rel="lightbox[arsmot]" title=""></a>
+                <a href="images/2012/arsmot7.jpg" rel="lightbox[arsmot]" title=""></a>
+                <a href="images/2012/arsmot8.jpg" rel="lightbox[arsmot]" title=""></a>
+                <a href="images/2012/arsmot9.jpg" rel="lightbox[arsmot]" title=""></a>
+                <a href="images/2012/arsmot10.jpg" rel="lightbox[arsmot]" title=""></a>  
             </div>
 <?php include "right.php"; ?>
 <?php include "sidfot.php"; ?>
