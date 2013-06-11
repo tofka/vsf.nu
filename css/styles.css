@@ -14,9 +14,53 @@ body {
     font-family: "Arial Narrow", helvetica, arial, sans-serif;
 }
 
+.overlay {
+    position: absolute;
+    display: none;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1500px;
+    background-color: rgba(0,0,0,0.8);
+    z-index: 1000;
+}
+
+
+.message {    
+    width: 50%;
+    height: 500px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    margin: auto;
+    z-index: 10000;
+}
+
+#left .overlay .message p {
+    font-size: 2em;
+    padding-top: 50px;
+    margin: 0 25% 50px 25%;
+}
+
+.close {
+    display: block;
+    margin: auto;
+    width: 75px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #999;
+    color: #fff;
+    font-size: 1.8em;
+    line-height: 35px;
+    margin-bottom: 15px;
+    background-color: #fb3d3d;
+}
+
+.close:hover {
+    background-color: #fb7b7b;
+} 
+
 .fb_iframe_widget_lift{
    width: 100px;
-
 }
 
 #wrap {
@@ -35,8 +79,6 @@ body {
 #rubriken {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-   
-
     background-color: #fafbcf; 
     /*url("bilder/loggabakgrund.png");*/
     width: 100%;
@@ -60,6 +102,38 @@ body {
     background-repeat: no-repeat;
     background-position: left bottom;     
 }
+
+.dots li {
+    list-style-type: disc;
+    margin: 0 0 10px 50px;
+    font-size: 1.1em;
+}
+
+.link {
+    display: inline;
+    margin-right: 10px;   
+    height: 40px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    border: 1px solid #999;
+    color: #0b2536;
+    font-size: 1em;
+    line-height: 35px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.link:hover {
+    background-color: #eee;
+    color: #555;
+}
+
+a.button {
+    text-decoration: none;
+    border: 0;
+}
+
+
 
 @media only screen and (min-width : 1025px) {
 
@@ -418,21 +492,35 @@ body {
     height: 40px;
 }
 
-#admin_form input[type='submit'] {
-    width: 100px;
-    height: 50px;
-    background-color: #456c85;
+#admin_form input[type='submit'], #admin_form input[type='reset'] {
+
+    display: inline;
+    margin: 10px 100px 0 0;
+    width: 75px;
+    height: 40px;
     border-radius: 5px;
     border: 1px solid #999;
     color: #fff;
-    font-size: 1.5em;
-    line-height: 50px;
+    font-size: 1.4em;
+    line-height: 35px;
     margin-bottom: 15px;
 }
 
-#admin_form input[type='submit']:hover {
-    background-color: rgba(126,160,181,0.9);
+#admin_form input[type='submit'] {
+    background-color: #456c85;
 }
+
+#admin_form input[type='reset'] {
+    background-color: #fb3d3d;   
+}
+
+#admin_form input[type='submit']:hover {
+    background-color: #6dabd2;
+}
+
+#admin_form input[type='reset']:hover {
+    background-color: #fb7b7b;
+} 
 
 #admin_form textarea {
     width: 250px;
@@ -982,21 +1070,34 @@ label {
     height: 40px;
 }
 
-#admin_form input[type='submit'] {
-    width: 100px;
-    height: 50px;
-    background-color: #456c85;
+#admin_form input[type='submit'], #admin_form input[type='reset'] {
+    display: inline;
+    margin: 10px 100px 0 0;
+    width: 75px;
+    height: 40px;
     border-radius: 5px;
     border: 1px solid #999;
     color: #fff;
-    font-size: 1.5em;
-    line-height: 50px;
+    font-size: 1.4em;
+    line-height: 35px;
     margin-bottom: 15px;
 }
 
-#admin_form input[type='submit']:hover {
-    background-color: rgba(126,160,181,0.9);
+#admin_form input[type='submit'] {
+    background-color: #456c85;
 }
+
+#admin_form input[type='reset'] {
+    background-color: #fb3d3d;   
+}
+
+#admin_form input[type='submit']:hover {
+    background-color: #6dabd2;
+}
+
+#admin_form input[type='reset']:hover {
+    background-color: #fb7b7b;
+} 
 
 #admin_form textarea {
     width: 250px;
@@ -1475,22 +1576,34 @@ input, textarea {
     height: 40px;
 }
 
-#admin_form input[type='submit'] {
-    width: 100px;
-    height: 50px;
-    background-color: #456c85;
+#admin_form input[type='submit'], #admin_form input[type='reset'] {
+    display: inline;
+    margin: 10px 100px 0 0;
+    width: 75px;
+    height: 40px;
     border-radius: 5px;
     border: 1px solid #999;
     color: #fff;
-    font-size: 1.5em;
-    line-height: 50px;
+    font-size: 1.4em;
+    line-height: 35px;
     margin-bottom: 15px;
 }
 
-#admin_form input[type='submit']:hover {
-    background-color: rgba(126,160,181,0.9);
+#admin_form input[type='submit'] {
+    background-color: #456c85;
 }
 
+#admin_form input[type='reset'] {
+    background-color: #fb3d3d;   
+}
+
+#admin_form input[type='submit']:hover {
+    background-color: #6dabd2;
+}
+
+#admin_form input[type='reset']:hover {
+    background-color: #fb7b7b;
+} 
 #admin_form textarea {
     width: 250px;
     margin: 5px 0 5px 0;

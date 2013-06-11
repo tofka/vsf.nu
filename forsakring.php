@@ -14,7 +14,7 @@
 				<p>Om du är intresserad av att teckna försäkring, kolla aktuellt försäkringsvärde. Kontakta därefter Britt Josefsson, som hjälper dig att teckna försäkring.</p>
 				<p class="indrag">Tel: 070 – 268 73 55
 				E-post: bij1[a]telia.com</p>
-				<p>Blankett finns <a href="forsanm2013.doc" target="_blank" title="Blankett">HÄR</a>.
+				<p>Blankett finns <a href="files/forsanm2013.doc" target="_blank" title="Blankett">HÄR</a>.
 				<a href="http://www.spelmansforbund.org" target="_blank" title="Sveriges Spelmäns Riksförbund">Läs om försäkringen på SSR-s hemsida</a>, klicka på "Försäkring".</p>
 				<p>Uppdaterat den 2011-05-30</p>
 				<p class="tillbaka"><a href="medlem.php" title="Tillbaka till Medlem">Tillbaka till Medlem</a></p>

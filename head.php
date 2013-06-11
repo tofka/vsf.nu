@@ -3,7 +3,7 @@
     <head profile="http://www.w3.org/2005/10/profile">
         <link rel="icon" type="image/png" href="images/favicon.png" />
     
-        <meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=no">
+        <meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=yes">
 
         <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
         <meta property="og:title" content="Gilla" />
