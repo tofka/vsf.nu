@@ -24,9 +24,6 @@ header("location:login.php");
                 <input type="hidden" name="MAX_FILE_SIZE" value="96000000" />
     			<label for="uploaded_file">Ladda upp fil:</label>
     			<input name="uploaded_file" id="uploaded_file" type="file" />
-                <label for="file_name">Namn:</label>
-                <!--<input name="file_name" id="file_name" type="text" />-->
-
                 <input type="submit" value="Spara" />
                 </form>
                 </div>

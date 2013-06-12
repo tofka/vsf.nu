@@ -43,7 +43,7 @@
                         <a href="kalendarium.php" title="Kalendarium">Kalendarium</a>
                     </li>
                     <li>
-                        <a href="vgspelmannen/vgspelmannen.pdf" target="_blank" title="Tidning">Tidning</a>
+                        <a href="tidning.php" title="Tidning">Tidning</a>
                     </li>
                     <li>
                         <a href="arsmoten.php" title="Årsmöten">Årsmöten</a>

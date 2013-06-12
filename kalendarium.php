@@ -20,8 +20,8 @@ echo "<h3>Evenemang 2013</h3>
 	
 while($array = mysql_fetch_array($result)) {
 	$file_ref = $array['file'];
-	echo "<tr><td class='date'>".$array["date_display"]."</td>
-				<td class='event'><span class='strong'>".$array["header"]."</span> " .$array["description"];
+	echo "<tr><td>".$array["date_display"]."</td>
+				<td><span class='strong'>".$array["header"]."</span> " .$array["description"];
 				if ($array['file']!="") {
 				echo " <a href='uploads/$file_ref' target='_blank'>$file_ref</a>" ;
 				}

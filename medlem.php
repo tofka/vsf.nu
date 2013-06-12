@@ -14,7 +14,7 @@
                         - Riksförbundets tidning som kommer ut fyra gånger per år. 
                         </li>
                         <li>Tidningen Västgötaspelmannen
-                        - Vår egen tidning som också kommer ut fyra gånger per år. Läs mer <a href="omtidningen.php" title="Om tidningen">om tidningen</a>.
+                        - Vår egen tidning som också kommer ut fyra gånger per år.
                         </li>
                         <li>En notsamling
                         - som fylls på varje år. I noterna finns äldre låtmaterial, vilket är svårt att 
