@@ -8,7 +8,7 @@
 			i formuläret nedan!
 			</p>
 				<div id="admin_form">
-					<form action = "ny_adress_send.php" method = "POST" name="nyadress">
+					<form action = "ny_adress_send.php" method = "POST" name="nyadress" accept-charset="utf-8">
 						<label>Namn:
 						<input type="text" name="namn" id="namn"/>
 						</label>

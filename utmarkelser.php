@@ -6,79 +6,26 @@
             <div id="left">
                 <h2>Utmärkelser</h2>
                   	<!--****Ta bort när ej aktuellt-->
-                	<h3>Zornveckan 2012 i Borås</h3>
+                	<h3>Zornutmärkelser 2013</h3>
 					<p class="strong">
-						Följande västgötar fick utmärkelser under Zornveckan 2012 i Borås. Läs mer på <a href="http://www.folkdansringen.se/Zorn/" target="_blank">Zornmärkesnämndens hemsida</a>.
+						Följande västgötar fick utmärkelser under Zornveckan 2013.
 					</p>
 					<table class="info">
 						<tr>
-							<tr>
 							<td>Bronsmärke</td>
-							<td>Marika Jakobsson</td>
-							<td>Skövde</td>
-							<td>Fiol</td>
-							
-						</tr>
-							<td>
-								Bronsmärke
-							</td>
-							<td>
-								Rebecka Westin
-							</td>
-							<td>
-								Norra Vånga
-							</td>
-							<td>
-								Fiol
-							</td>
-					
-						</tr>
-						<tr>
-							<td>Bronsmärke</td>
-							<td>Daniel Westin</td>
-							<td>Sundsvall</td>
-							<td>Fiol</td>
-						</tr>
-						<tr>
-							<td>Diplom efter brons</td>
-							<td>Fredrik Persson</td>
-							<td>Partille</td>
-							<td>Fiol</td>
-						</tr>
-						<tr>
-							<td>Diplom efter brons</td>
-							<td>John Strandberg Samuelsson</td>
-							<td>Tidaholm</td>
-							<td>Fiol</td>
-						</tr>
-
-						<tr>
-							<td>Diplom</td>
-							<td>Thomas Johannesson</td>
-							<td>Göteborg</td>
-							<td>Fiol</td>
-						</tr>
-						<tr> 
-							<td>Diplom</td>
 							<td>Franz-Benjamin Mocnik</td>
-							<td>Westphalen, Tyskland</td>
-							<td>Fiol</td>
-						</tr>
-						
-						<tr>
-							<td>Diplom</td>
-							<td>Thomas Johansson</td>
-							<td>Borås</td>
-							<td>Nyckelharpa</td>
+							<td>"För gott spel av Västgötalåtar"</td>
 						</tr>
 						<tr>
-							<td>Diplom</td>
+							<td>Bronsmärke</td>
 							<td>Anna Mogren</td>
-							<td>Ulricehamn</td>
-							<td>Fiol</td>
+							<td>"För frejdigt spel av Västgötalåtar"</td>
 						</tr>
-						
-
+						<tr>
+							<td>Diplom efter bronsmärke</td>
+							<td>Ida Malkolmsson</td>
+							<td>"För gott spel på kohorn"</td>					
+						</tr>
 					</table>
 					
 					<!--****-->

@@ -12,8 +12,8 @@ include "connect_to_database.php";
 		$author = $_SESSION['myusername'];
 
 function BBCode($new_text) {
-	$new_text = preg_replace('@\[url=([^]]*)\]([^[]*)\[/url\]@', '<a href="$1" target="_blank">$2</a>', $new_text);
-	$new_text = preg_replace('@\[url\]([^[]*)\[/url\]@', '<a href="$1" target="_blank">$1</a>', $new_text);
+	$new_text = preg_replace('@\[url=([^]]*)\]([^[]*)\[/url\]@', '<a href="$1">$2</a>', $new_text);
+	$new_text = preg_replace('@\[url\]([^[]*)\[/url\]@', '<a href="$1">$1</a>', $new_text);
 
 	$parsedtext = str_ireplace(array_keys(), array_values(), $new_text);
 	return $parsedtext;

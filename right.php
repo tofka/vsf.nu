@@ -6,10 +6,7 @@
     <p>
      	Västergötlands Spelmansförbund bildades 1948, och anordnar aktiviteter för alla åldrar. 
 		</p>    
-		<div id="social_icons">
-      <div class="social_icon">
-        <a href="http://www.gastbok.net/gastbok/?gb=4059" target="_blank" title="Gästbok"><img id="guestbook" src="images/ikoner/penna.jpg" alt="Gästbok" />Gästbok</a></p>
-      </div>    
+		<div id="social_icons">          
       <div class="social_icon">
         <a href="https://www.facebook.com/pages/V%C3%A4sterg%C3%B6tlands-Spelmansf%C3%B6rbund/101176399957233" target="_blank" title="VSF på Facebook"><img id="fb" src="images/ikoner/f_logo.jpg" alt="VSF på Facebook" />VSF på Facebook</a>
       </div>

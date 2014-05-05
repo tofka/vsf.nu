@@ -9,7 +9,7 @@
 	        	 fonden. Fyll i uppgifterna i formuläret.</p>
 	        	<div id="minnesblad"></div>
 				<div id="admin_form">
-					<form method="post" name="gava_form" action="ne_gava_form.php">	
+					<form method="post" name="gava_form" action="ne_gava_form.php" accept-charset="utf-8">	
 						<label>Namn: <input id="select" type="text" name="name" placeholder="Förnamn Efternamn" value="Förnamn Efternamn" /></label>					
 						<label>Gatuadress: <input type="text" name="street" /></label>
 						<label>Postnummer: <input type="text" name="zip" /></label>

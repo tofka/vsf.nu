@@ -24,6 +24,10 @@
         <li>
         	<a href='vsflatar.php'>Sök bland låtar</a>
         <li>
+        <li>
+            <a href='allspel.php'>Allspelslåtar</a>
+        <li>
+        <li>
             <a href='logged_in.php'>Hem</a>
         </li>
         <li>

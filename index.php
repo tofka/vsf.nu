@@ -8,7 +8,7 @@
                 <div id="index_logga">
                     <h2>Aktuellt</h2>
 <?php				
-$query = "SELECT * FROM news ORDER BY date desc;";
+$query = "SELECT * FROM news ORDER BY date desc LIMIT 3;";
 $result = mysql_query($query, $connection);
 
 while($array = mysql_fetch_array($result)) {

@@ -12,12 +12,12 @@ mysql_query("SET NAMES 'utf8'", $connection);
 $news_header = $_POST['news_header'];
 $date = date('Y-m-d H:i:s');
 $text = $_POST['text'];
-$file = 'uploads/' . $_FILES['uploaded_file']['name'];
+$file = $_FILES['uploaded_file']['name'];
 $author = $_SESSION['myusername'];
 
 function BBCode($text) {
-	$text = preg_replace('@\[url=([^]]*)\]([^[]*)\[/url\]@', '<a href="$1" target="_blank">$2</a>', $text);
-	$text = preg_replace('@\[url\]([^[]*)\[/url\]@', '<a href="$1" target="_blank">$1</a>', $text);
+	$text = preg_replace('@\[url=([^]]*)\]([^[]*)\[/url\]@', '<a href="$1">$2</a>', $text);
+	$text = preg_replace('@\[url\]([^[]*)\[/url\]@', '<a href="$1">$1</a>', $text);
 
 	$parsedtext = str_ireplace(array_keys(), array_values(), $text);
 	return $parsedtext;

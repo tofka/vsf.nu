@@ -45,9 +45,7 @@
                     <li>
                         <a href="tidning.php" title="Tidning">Tidning</a>
                     </li>
-                    <li>
-                        <a href="arsmoten.php" title="Årsmöten">Årsmöten</a>
-                    </li>
+                    
                     <li>
                         <a href="kurser.php" title="Kurser">Kurser</a>
                     </li>
@@ -55,7 +53,7 @@
                         <a href="latarvisor.php" title="Låtar och visor">Låtar och visor</a>
                     </li>
                     <li>
-                        <a href="inventering.php" title="Hitta Folkmusiken">Hitta Folkmusiken</a>
+                        <a href="profiler.php" title="Hitta Folkmusiken">Spelmansprofiler</a>
                     </li>
                     <li>
                         <a href="spelmanslag.php" title="Spelmanslag">Spelmanslag</a>
@@ -82,6 +80,9 @@
             <li>
                 <a href="foto2011.php" title="Foton">Foton </a>
                 <ul>
+                    <li>
+                        <a href="foto2013.php">2013</a>
+                    </li>
                     <li>
                         <a href="foto2012.php">2012</a>
                     </li>

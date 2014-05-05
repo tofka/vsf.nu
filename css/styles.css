@@ -14,6 +14,9 @@ body {
     font-family: "Arial Narrow", helvetica, arial, sans-serif;
 }
 
+.right {
+    float: right;
+}
 .overlay {
     position: absolute;
     display: none;
@@ -133,10 +136,23 @@ a.button {
     border: 0;
 }
 
+/* Spelmansprofiler */
+.image-info {
+    clear: both;
+    min-width: 200px;
+    margin: 0 20px 20px 5px;
+}
 
+.image-info div {
+    max-width: 400px;
+    width: 100%;
+}
 
 @media only screen and (min-width : 1025px) {
 
+.right {
+    float: right;
+}
 #header_text h1 {
     color: #143449;
     text-shadow: 0 0 1px;
@@ -772,7 +788,9 @@ label {
     margin-right: auto;
     margin-bottom: 30px;
 }
-
+.right {
+    float: right;
+}
 
 #header {
     box-shadow: 0 2px 5px;
@@ -1632,6 +1650,8 @@ margin-bottom: 30px;
     background-position: center;
     border: 1px solid #999;
 }
+
+
 
 #sidfot {
 

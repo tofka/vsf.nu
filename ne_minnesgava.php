@@ -9,7 +9,7 @@
 	        	 fonden. Fyll i uppgifterna i formuläret.</p>
 	        	<div id="minnesblad"></div>	 
 	        	<div id="admin_form">
-					<form method="post" name="gava_form" action="ne_minne_form.php">	
+					<form method="post" name="gava_form" action="ne_minne_form.php" accept-charset="utf-8">	
 						<label>Till minne av: <input type="text" name="person_name" value="Förnamn Efternamn" /></label>
 						<label>Personlig hälsning: <textarea rows="10" name="greeting"></textarea></label>
 						<p>Adress dit minneskortet ska skickas: </p>

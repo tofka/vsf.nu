@@ -39,7 +39,7 @@ Summa: $donor_sum";
 $headers = "Content-type: text/plain; charset=utf-8\r\n";
 
 $to = "karin.toft@comhem.se, anders.brissman@telia.com";
-if (!$email_spam) {
+if (!$email_spam && $person_name != 'Förnamn Efternamn' && $person_name != '') {
 	if(mail($to,$email_subject,$email_body,$headers)) {	
 		echo "<div id='wrap'>";
 		include "meny.php";

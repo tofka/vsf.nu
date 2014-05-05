@@ -24,7 +24,7 @@ $email_body = "Ämne: Formulär: Gåva\n
 $headers = "Content-type: text/plain; charset=utf-8\r\n";
 $to  = "karin.toft@comhem.se, anders.brissman@telia.com";
 
-if (!$email_spam) {
+if (!$email_spam && $name != 'Förnamn Efternamn' && $name != '') {
 	if(mail($to,$email_subject,$email_body,$headers)) {	
 		echo "<div id='wrap'>";
 		include "meny.php";

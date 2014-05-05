@@ -15,7 +15,7 @@
 $query = "SELECT * FROM events WHERE date > DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 1 DAY) ORDER BY date;";
 $result = mysql_query($query, $connection);
 
-echo "<h3>Evenemang 2013</h3>
+echo "<h3>Kommande evenemang</h3>
 <table class='info'>";
 	
 while($array = mysql_fetch_array($result)) {

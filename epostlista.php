@@ -8,7 +8,7 @@
 					<p>Vill du få nyheter via vår epostlista? I så fall kan du anmäla dig genom att fylla i formuläret nedan. Om du inte längre vill ha epost från VSF, så kan du även avanmäla dig
 						genom formuläret. </p>
 					<div id="admin_form">
-						<form action = "epostlista_send.php" method = "POST" name="epostlista">				
+						<form action = "epostlista_send.php" method = "POST" name="epostlista" accept-charset="utf-8">				
 							<label>Namn:
 							<input type="text" name="namn" id="namn"/>
 							</label>				

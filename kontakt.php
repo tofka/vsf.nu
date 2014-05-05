@@ -40,17 +40,13 @@
 					anders.brissman[a]telia.com 
 				</div>
 				<div class="presentation">
-					<img src="images/stjo.jpg" width="90" alt="Ledamot John Strandberg Samualsson" />
+					<img src="images/pefr.jpg" width="90" alt="Ledamot Fredrik Persson" />
 					<h5>LEDAMOT:</h5>
-					John Strandberg Samuelsson<br/>
-					Agnetorp Björkhaga <br/>
-					522 92 
-					TIDAHOLM
-					<br/>
-					Tel: 0502 - 711 01<br/>
-					E-post: <br/>
-					johnstrandbergsamuelsson[a]<br/>
-					hotmail.com
+					Fredrik Persson<br/>
+					Fornfyndsvägen 18<br />
+					433 41 PARTILLE<br />
+					Tel: 073-342 69 74<br />
+					E_post: fredrikpersson88[a]hotmail.com<br/>
  				</div>
  				<div class="presentation">
 					<img src="images/jope.jpg" width="90" alt="Ledamot Pers Nils Johansson" />
@@ -61,6 +57,16 @@
 					Tel 031 - 190197<br/>
 					E-post: <br/>
 					pers_nils[a]yahoo.se
+				</div>
+				<div class="presentation">
+					<img src="images/masu.png" width="90" alt="Redaktör Susanne Marcus-Svalefelt" />
+					<h5>LAYOUT (tidning):</h5>
+					Susanne Marcus-Svalefelt<br/>
+					Fridhemsvägen 25<br/>
+					462 53 VÄNERSBORG<br/>
+					Tel 0708 – 729 592<br/>
+					E-post: <br/>
+					susanne[a]mandolina.net
 				</div>
 				<div class="presentation">
 					<img src="images/daan.jpg" width="90" alt="" />
@@ -104,16 +110,8 @@
 					bij1[a]telia.com 
  				</div>
 				
-				<!--<div class="presentation">
-					<img src="images/masu.png" width="90" alt="Redaktör Susanne Marcus-Svalefelt" />
-					<h5>REDAKTÖR:</h5>
-					Susanne Marcus-Svalefelt<br/>
-					Fridhemsvägen 25<br/>
-					462 53 VÄNERSBORG<br/>
-					Tel 0708 – 729 592<br/>
-					E-post: <br/>
-					susanne[a]spelafela.se
-				</div>-->
+				
+				
 				<div id="valb">
 					<h4>VALBEREDNING:</h4>
 					<p>Thomas Johansson<br/>

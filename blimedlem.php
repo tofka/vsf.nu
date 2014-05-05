@@ -6,7 +6,7 @@
 
 			<div id="left">
 				<h2>Bli medlem!</h2>
-				<p>Ett medlemskap kostar 150 kr per år till och med 18 år. 19 år och uppåt 275 kr per år. Du kan bli medlem
+				<p>Ett medlemskap kostar 100 kr per år till och med 18 år. 19 år och uppåt 275 kr per år. Du kan bli medlem
 					genom att sätta in beloppet på Bankgiro 5949-4591. <span class="strong">Glöm inte ange namn och adress!</span>
 				</p>
 				<p>				
@@ -21,7 +21,7 @@
 				<p>Eller kontakta någon i <a href="kontakt.php"> styrelsen</a>.</p>				
 				
 				<div id="admin_form">
-					<form action = "bli_medlem_send.php" method = "POST" name="medlemskap" accept-charset="ISO-8859-1">
+					<form action = "bli_medlem_send.php" method = "POST" name="medlemskap" accept-charset="utf-8">
 										
 						<label>Namn:
 						<input type="text" name="namn" id="namn" /></label>				
